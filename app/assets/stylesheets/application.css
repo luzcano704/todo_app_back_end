@@ -59,8 +59,19 @@ body{
     padding: 10px;
     font-family: 'Shadows Into Light', cursive;
     box-shadow: 10px 5px 10px 5px;
-    background-color: #ffa500;
+    background-color: #339933;
 }
 ul{
     list-style-type: none;
+}
+
+
+h2{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 33px;
+    margin: 20px 0px;
+}
+body{
+    background-color: #ffa500;
 }
