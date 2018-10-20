@@ -48,7 +48,7 @@ li{
     margin-bottom: 40px
 }
 body{
-    background-color: #339933;
+    background-color: #46c146;
 }
 #name{
     border-style: double;
@@ -59,7 +59,7 @@ body{
     padding: 10px;
     font-family: 'Shadows Into Light', cursive;
     box-shadow: 10px 5px 10px 5px;
-    background-color: #339933;
+    background-color:  #46c146;
 }
 ul{
     list-style-type: none;
