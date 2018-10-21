@@ -42,7 +42,6 @@
 }
 #add-new-todo-button:active{
     box-shadow: 1px 1px 1px #90A4AE;
-    text-align: center;
 }
 li{
     padding: 5px;
