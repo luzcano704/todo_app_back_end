@@ -2,7 +2,7 @@
         <h2><%= @todo.description %></h2> 
         <h3>Todo #<%= params[:id] %></h3>
         <span class="pomodoro-estimate large-pomodoro-estimate"><%= @todo.pomodoro_estimate %> Pomodoros</span> 
-        <a href="index">Edit</a>
-        <a href="index">Delete</a>
+        <a href="/todo/edit/<%= @todo.id %>" class=button edit-todo-button">Edit</a>
+        <a href="/todo/destroy/<%= @todo.id %>" class="button delet-todo-button">Delete</a>
         <a href="../index">Go back...</a> 
         
